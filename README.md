@@ -1,12 +1,14 @@
 # BisouPlugin
 
-BisouPlugin is a useless Skript, but really fun ! Already used on some servers !! 
+Minecraft Plugin (Skript) - 🇫🇷
+
+BisouPlugin est un Skript inutile mais très rigolo ! 
 
 ## Setup
 - **Minecraft versions** : `1.12.*`
-- **Required Plugins** : `Skript, skDragons`
+- **Plugins requis** : `Skript, skDragons`
 
-Then, you have to put the bisou.sk file into the folder : 
+Il faut placer le fichier `bisou.sk` dans le dossier : 
 ```txt
 server/plugins/Skript/script/
 ```
