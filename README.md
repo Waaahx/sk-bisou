@@ -1,8 +1,8 @@
-# BisouPlugin
+# sk-bisou
 
-Minecraft Plugin (Skript) - 🇫🇷
+Minecraft (Skript) - 🇫🇷
 
-BisouPlugin est un Skript inutile mais très rigolo ! 
+sk-bisou est un Skript inutile mais très rigolo ! 
 
 ## Setup
 - **Minecraft versions** : `1.12.*`
